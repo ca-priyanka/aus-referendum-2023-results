@@ -16,4 +16,3 @@ create table polling_places (
     Longitude varchar(255),
     primary key(id)
 );
-
